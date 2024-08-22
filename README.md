@@ -1,0 +1,2 @@
+# TrendInvesting_SpringCloud
+使用springcloud框架开发量化投资分析系统网站，实现各种业务场景
